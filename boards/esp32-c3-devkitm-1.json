@@ -17,7 +17,8 @@
     "openocd_target": "esp32c3.cfg"
   },
   "frameworks": [
-    "espidf"
+    "espidf",
+    "arduino"
   ],
   "name": "Espressif ESP32-C3-DevKitM-1",
   "upload": {
